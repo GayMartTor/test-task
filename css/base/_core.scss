@@ -1,0 +1,24 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box
+  }
+   body{
+    color: #000000;
+    background: #ffffff; }
+  
+  .wrapper {
+    overflow: hidden;
+    margin: 0 auto;
+    width: 100%; }
+  
+  .clear {
+    clear: both; }
+  
+  .container {
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto; }
+  
+  a {
+    text-decoration: none; }

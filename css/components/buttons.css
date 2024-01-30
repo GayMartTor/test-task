@@ -1,0 +1,29 @@
+
+.sign {
+  border-radius: 7px;
+  border: 0.864px solid #D66567;
+  background: #BC4749;
+  display: flex;
+width: 114px;
+height: 39px;
+padding: 8.636px 13.818px;
+justify-content: center;
+align-items: center;
+gap: 9px;
+color: #FFF;
+font-family: Inter;
+font-size: 12px;
+font-weight: 500;
+line-height: 128.023%; 
+}
+.login{
+  margin: 0 -8% 0 16%;
+  width: 50px;
+  border: none;
+  background-color: #36603e;
+  color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 12.091px;
+font-weight: 400;
+line-height: 128.023%;
+}
